@@ -1,0 +1,291 @@
+#img {
+  position: absolute;
+
+  width: 80px;
+  height: 80px;
+  left: 235px;
+  top: 1272px;
+
+  background: url("./images/hand-icon.jpg");
+}
+
+#img2 {
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 532px;
+  top: 1272px;
+  border-radius: 0px;
+  background: url("./images/bag-icon.jpg");
+}
+#img3 {
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 806px;
+  top: 1259px;
+  border-radius: 0px;
+  padding: 0.8rem 0.9rem;
+  background: url("./images/cost-icon.jpg");
+}
+#img4 {
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 1100px;
+  top: 1259px;
+  border-radius: 0px;
+  padding: 0.8rem 0.9rem;
+  background: url("./images/headphone-icon.jpg");
+}
+
+.first-img {
+  position: absolute;
+  height: 13px;
+  width: 180px;
+  left: 210px;
+  top: 1360px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.second-img {
+  height: 13px;
+  width: 177px;
+  left: 493px;
+  top: 1360px;
+  border-radius: nullpx;
+  position: absolute;
+  font-family: Space Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.third-img {
+  position: absolute;
+  height: 18px;
+  width: 142px;
+  left: 807px;
+  top: 1360px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.fourt-img {
+  position: absolute;
+  height: 13px;
+  width: 188px;
+  left: 1083px;
+  top: 1360px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#property-1 {
+  position: absolute;
+  height: 20px;
+  width: 248px;
+  left: 180px;
+  top: 1396px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#property-2 {
+  position: absolute;
+  height: 20px;
+  width: 192px;
+  left: 193px;
+  top: 1415px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#property-3 {
+  position: absolute;
+  height: 14px;
+  width: 63px;
+  left: 244px;
+  top: 1433px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#lowest-1 {
+  position: absolute;
+  height: 20px;
+  width: 241px;
+  left: 465px;
+  top: 1396px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#lowest-2 {
+  position: absolute;
+  height: 20px;
+  width: 187px;
+  left: 486px;
+  top: 1415px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#lowest-3 {
+  position: absolute;
+  height: 14px;
+  width: 59px;
+  left: 552px;
+  top: 1432px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#tax-1 {
+  position: absolute;
+  height: 20px;
+  width: 237px;
+  left: 764px;
+  top: 1396px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+#tax-2 {
+  position: absolute;
+  height: 20px;
+  width: 185px;
+  left: 790px;
+  top: 1415px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#tax-3 {
+  position: absolute;
+  height: 14px;
+  width: 59px;
+  left: 852px;
+  top: 1432px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#hour-1 {
+  position: absolute;
+  height: 20px;
+  width: 227px;
+  left: 1063px;
+  top: 1396px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+#hour-2 {
+  position: absolute;
+  height: 20px;
+  width: 177px;
+  left: 1088px;
+  top: 1415px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+#hour-3 {
+  position: absolute;
+  height: 14px;
+  width: 57px;
+  left: 1148px;
+  top: 1432px;
+  border-radius: nullpx;
+  font-family: Space Grotesk;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
