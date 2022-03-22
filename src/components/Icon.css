@@ -1,4 +1,4 @@
-#img {
+.img {
   position: absolute;
 
   width: 80px;
@@ -9,7 +9,7 @@
   background: url("./images/hand-icon.jpg");
 }
 
-#img2 {
+.img2 {
   position: absolute;
   height: 80px;
   width: 80px;
@@ -18,7 +18,7 @@
   border-radius: 0px;
   background: url("./images/bag-icon.jpg");
 }
-#img3 {
+.img3 {
   position: absolute;
   height: 80px;
   width: 80px;
@@ -28,7 +28,7 @@
   padding: 0.8rem 0.9rem;
   background: url("./images/cost-icon.jpg");
 }
-#img4 {
+.img4 {
   position: absolute;
   height: 80px;
   width: 80px;
@@ -101,7 +101,7 @@
   text-align: left;
 }
 
-#property-1 {
+.property-1 {
   position: absolute;
   height: 20px;
   width: 248px;
@@ -117,7 +117,7 @@
   text-align: left;
 }
 
-#property-2 {
+.property-2 {
   position: absolute;
   height: 20px;
   width: 192px;
@@ -133,7 +133,7 @@
   text-align: left;
 }
 
-#property-3 {
+.property-3 {
   position: absolute;
   height: 14px;
   width: 63px;
@@ -149,7 +149,7 @@
   text-align: left;
 }
 
-#lowest-1 {
+.lowest-1 {
   position: absolute;
   height: 20px;
   width: 241px;
@@ -165,7 +165,7 @@
   text-align: left;
 }
 
-#lowest-2 {
+.lowest-2 {
   position: absolute;
   height: 20px;
   width: 187px;
@@ -181,7 +181,7 @@
   text-align: left;
 }
 
-#lowest-3 {
+.lowest-3 {
   position: absolute;
   height: 14px;
   width: 59px;
@@ -197,7 +197,7 @@
   text-align: left;
 }
 
-#tax-1 {
+.tax-1 {
   position: absolute;
   height: 20px;
   width: 237px;
@@ -212,7 +212,7 @@
   letter-spacing: 0em;
   text-align: left;
 }
-#tax-2 {
+.tax-2 {
   position: absolute;
   height: 20px;
   width: 185px;
@@ -228,7 +228,7 @@
   text-align: left;
 }
 
-#tax-3 {
+.tax-3 {
   position: absolute;
   height: 14px;
   width: 59px;
@@ -244,7 +244,7 @@
   text-align: left;
 }
 
-#hour-1 {
+.hour-1 {
   position: absolute;
   height: 20px;
   width: 227px;
@@ -259,7 +259,7 @@
   letter-spacing: 0em;
   text-align: left;
 }
-#hour-2 {
+.hour-2 {
   position: absolute;
   height: 20px;
   width: 177px;
@@ -274,7 +274,7 @@
   letter-spacing: 0em;
   text-align: left;
 }
-#hour-3 {
+.hour-3 {
   position: absolute;
   height: 14px;
   width: 57px;
