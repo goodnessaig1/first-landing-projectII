@@ -2,7 +2,7 @@
   position: relative;
 }
 
-#foot-img-1 {
+.foot-img-1 {
   background: url("./images/second.jpg");
   height: 500px;
   width: 295px;
@@ -11,7 +11,7 @@
   border-radius: 0px;
   position: absolute;
 }
-#foot-img-2 {
+.foot-img-2 {
   background: url("./images/third.jpg");
   height: 635px;
   width: 295px;
@@ -22,7 +22,7 @@
   background-position: 50%;
 }
 
-#text-1 {
+.text-1 {
   position: absolute;
   height: 25px;
   width: 92px;
@@ -38,7 +38,7 @@
   text-align: left;
 }
 
-#text-2 {
+.text-2 {
   position: absolute;
   height: 20px;
   width: 311px;
@@ -54,7 +54,7 @@
   text-align: left;
 }
 
-#text-3 {
+.text-3 {
   position: absolute;
   height: 32px;
   width: 284px;
@@ -70,7 +70,7 @@
   text-align: left;
 }
 
-#text-4 {
+.text-4 {
   position: absolute;
   height: px;
   width: 310px;
@@ -86,7 +86,7 @@
   text-align: left;
 }
 
-#text-5 {
+.text-5 {
   position: absolute;
   height: px;
   width: 310px;
@@ -101,7 +101,7 @@
   letter-spacing: 0em;
   text-align: left;
 }
-#text-6 {
+.text-6 {
   position: absolute;
   height: px;
   width: 310px;
